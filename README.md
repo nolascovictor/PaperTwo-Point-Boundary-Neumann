@@ -1,6 +1,10 @@
 # Two-Point-Boundary-Neumann
 
-This repository contains the code for the paper [Rigorous Enclosures of Solutions of Neumann Boundary Value Problems](https://arxiv.org/abs/2005.02755) by Eduardo Ramos, Victor Nolasco and Marcio Gameiro.
+This repository contains the code for the paper "Rigorous enclosures of solutions of Neumann boundary value problems"  
+Author: Eduardo Ramos, Victor Nolasco, Marcio Gameiro 
+Publication: Applied Numerical Mathematics 
+Publisher: Elsevier 
+https://doi.org/10.1016/j.apnum.2022.05.011
 
 The Matlab scripts `run_computations_example_1.m`, 
 `run_computations_example_2.m`, `run_computations_example_3.m` and `run_computations_example_4.m` run the examples in the paper.
